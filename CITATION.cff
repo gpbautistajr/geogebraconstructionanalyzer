@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "GeoGebra Construction Analyzer"
+message: "If you use this software, please cite it as below."
+type: software
+
+authors:
+  - family-names: Bautista
+    given-names: Guillermo P.
+    name-suffix: Jr.
+    affiliation: Johannes Kepler University Linz
+    orcid: https://orcid.org/0000-0002-7999-6535
+
+version: 1.0
+date-released: 2026-03-16
+
+doi: 10.5281/zenodo.19056570
+
+repository-code: https://github.com/gpbautistajr/geogebraconstructionanalyzer
+
+abstract: >
+  GeoGebra Construction Analyzer is a Python tool for extracting,
+  classifying, and tallying mathematical objects from GeoGebra (.ggb)
+  files. The software parses the internal XML structure of GeoGebra
+  applets, identifies mathematical objects and expressions, classifies
+  function types, and exports structured data to CSV files for further
+  analysis.
