@@ -68,7 +68,7 @@ If you use this software in research, please cite:
 
 Bautista, G. P. Jr. (2026).
 GeoGebra Construction Analyzer (Version 1.0) [Software]. Zenodo.
-https://doi.org/xxxxx
+https://doi.org/10.5281/zenodo.19056570
 
 **License**
 
